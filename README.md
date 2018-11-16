@@ -1,4 +1,4 @@
-# DrugMolecularToxicityPrediction
+# Drug Molecular Toxicity Prediction using Deep Neural Network
 
 ## Project Specification
 Almost all people are exposed to different chemicals during their lifetimes through different
